@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = demo.hugo.io.config.\
+    SqlTestContainersSpringContextCustomizerFactory,demo.hugo.io.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
